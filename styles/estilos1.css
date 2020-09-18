@@ -570,15 +570,16 @@ margin-bottom: 90px;
      margin-top: 40px;
  }
 
- /* FOOTERR */
+ /* FOOTERr */
 
  .texto-mobile3 {
     display: block;
     font-family: 'IBM Plex Mono', monospace;
     font-size: 16px;
     color: #060A24;
-    letter-spacing: 0;
+    letter-spacing: 0.5px;
     line-height: 24px;
+    margin-left: 15px;
  }
 
 .logo2 {
@@ -599,7 +600,7 @@ margin-bottom: 90px;
         font-size: 14px;    
     }
     .nav-item2 {
-        padding-right: 20px;
+        padding-right: 0px;
     }
 
     .titulo-mobile1 {
