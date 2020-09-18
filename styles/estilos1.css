@@ -159,6 +159,8 @@
     color: #060A24;
     letter-spacing: 0;
     margin-bottom: 20px;
+    margin-top: 64px;
+    margin-left: 200px;
 }
 
 .section2 {
@@ -219,9 +221,7 @@ margin-right: auto;
 margin-bottom: 13px;
 }
 
-.titulo-margin-bottom {
-    margin-bottom: 56px;;
-}
+
 
 /* Sección  las ultimas novedades */
 
@@ -551,7 +551,7 @@ margin-bottom: 13px;
   .titulo-negro {
       margin-right: 0px;
       font-size: 36px;
-      padding: 48px 50px 0 16px;
+      padding: 0px 50px 0 16px;
       line-height: 48px;
       font-weight: 100;
   }
@@ -579,7 +579,7 @@ margin-bottom: 90px;
     color: #060A24;
     letter-spacing: 0.5px;
     line-height: 24px;
-    margin-left: 15px;
+    margin-left: -25px;
  }
 
 .logo2 {
